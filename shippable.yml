@@ -1,5 +1,5 @@
 # Build Environment
-build_environment: Ubuntu 14.04
+build_environment: Debian Latest
 
 # language setting
 language: java
