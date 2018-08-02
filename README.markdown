@@ -1,3 +1,6 @@
+# Joda-Time MyBatis
+[![DepShield Badge](https://staging.depshield.sonatype.org/badges/collinpeters/joda-time-mybatis/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
+
 ## Comments
 
 * Your mileage may vary. Working with time zones can yield strange results
