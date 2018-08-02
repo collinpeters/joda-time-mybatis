@@ -7,6 +7,7 @@
     * be run in UTC (-Dtimezone=UTC)
 	* be in the same timezone as the database server
 
+
 ## Example
 
 SQL (PostgreSQL in this case)
