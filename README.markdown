@@ -1,5 +1,8 @@
 # Joda-Time MyBatis
+Staging
 [![DepShield Badge](https://staging.depshield.sonatype.org/badges/collinpeters/joda-time-mybatis/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
+Production
+[![DepShield Badge](https://depshield.sonatype.org/badges/collinpeters/joda-time-mybatis/depshield.svg)](https://sonatype.github.io/depshield-github-pages)
 
 ## Comments
 
